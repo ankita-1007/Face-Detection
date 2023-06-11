@@ -1,4 +1,6 @@
 <h1> Face-Detection </h1>
+<img align="right" src="https://github.com/ankita-1007/Face-Detection/assets/100415671/f55dd9be-a3e8-447b-9664-bc25fe78d649" width=400>
+
 <h2>1. Description </h2>
 This project can be used for: <br>
 <br>
