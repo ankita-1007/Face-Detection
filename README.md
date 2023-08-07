@@ -1,4 +1,4 @@
-<h1> Face-Detection </h1>
+<h1> Face-and-Emotion-Detection </h1>
 <img align="right" src="https://github.com/ankita-1007/Face-Detection/assets/100415671/f55dd9be-a3e8-447b-9664-bc25fe78d649" width=400>
 
 <h2>1. Description </h2>
@@ -7,6 +7,7 @@ This project can be used for: <br>
 1. Detect faces from live images taken from webcam. <br>
 2. Detct faces in short live video sequence.<br>
 3. Detect faces in mask wearing images. <br>
+4. Detect and recognize emotions
 
 <h2>2. Background:  </h2>
 <b>Face detection </b>is a computer vision problem that involves finding faces in photos.State-of-the-art face detection can be achieved using a Multi-task Cascade CNN via the <b>MTCNN</b> library.
@@ -17,6 +18,7 @@ A number of deep learning methods have been developed and demonstrated for face 
 <br>
 One of the more popular approaches is called the <b>“Multi-Task Cascaded Convolutional Neural Network,”</b> or MTCNN . <br>
 <br> 
+Used DeepFace library to detect emotions of a person using webcam
 
 
 During the COVID-19 pandemic, face detection systems have become crucial as they can effectively detect faces even when individuals are wearing masks, 
